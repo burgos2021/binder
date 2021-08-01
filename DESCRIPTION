@@ -8,21 +8,6 @@ License: MIT
 Depends: 
     stylo,
     tidyverse,
-    rvest,
-    RCurl,
-    utils,
-    dplyr,
-    ggalluvial,
-    ggplot2,
-    igraph,
-    leaflet,
-    maps,
-    rgexf,
-    stopwords,
-    tidyverse,
-    tokenizers,
-    treemapify,
-    wordcloud
-Remotes: 
+    rvest
 Encoding: UTF-8
 LazyData: true
