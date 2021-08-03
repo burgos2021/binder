@@ -10,6 +10,6 @@ La instancias en binder son útiles para reproducir código en un entorno cerrad
 
 La memoria en el servidor es limitada (no permite grandes operaciaciones). Binder se detiene después de 10 minutos de inactividad.
 
-Es posible añadir archivos a los ya precargados desde el repositorio (y descargarlos) en la versión de Rstudio en Binder. Se puede para ello usar en el menú las funciones de cargar (_Upload_) o exportar (_more > export_).
+Es posible añadir archivos a los ya precargados desde el repositorio (y descargarlos) en la versión de Rstudio en Binder. Se puede para ello usar en el menú las funciones de cargar (_Upload_) o exportar (_more > Export_).
 
 ![RstudioInBinder](images/RstudioInBinder.png)
