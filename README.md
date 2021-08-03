@@ -1,6 +1,6 @@
 # Rstudio en línea
 
-Haga clic en el icono _launch binder_ para cargar este repositorio, `burgos2021/binder` en una instancia en línea de RStudio: 
+Haga clic en el icono _launch binder_ para cargar este repositorio, `burgos2021/binder`, en una instancia en línea de RStudio: 
 
 [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/burgos2021/binder/HEAD?urlpath=rstudio)
 
