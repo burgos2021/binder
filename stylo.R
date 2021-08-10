@@ -5,8 +5,9 @@
 library(stylo)
 library(tidyverse)
 
-resultado = stylo(gui = F, 
+resultado = stylo(gui = F, # GUI no es posible en la instancia en línea.
                   corpus.dir = "corpus", # ruta a los textos. Por defecto corpus
+                  # encoding = "UTF-8",
                   mfw.min = 500, 
                   mfw.max = 500,
                   # mfw.incr = 500, 
